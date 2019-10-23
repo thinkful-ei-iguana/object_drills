@@ -9,4 +9,3 @@ function createMyObject(){
     }
   };
 }
-console.log(createMyObject());
